@@ -1,0 +1,84 @@
+html{
+    background-color:rgb(10, 9, 52);
+    color: white;
+    font-size: 1.15rem;
+}
+.boatImg {
+    width: 12rem;
+    height: 8rem;
+    background-color: white;
+    border-radius: 1rem;
+}
+div {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.copyright{
+    margin-top: 0;
+}
+.title{
+    background-image: url("../bridge.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 30rem;
+}
+.title p {
+    font-size: 3.25rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding: 2rem;
+    -webkit-text-stroke:.08rem rgba(249, 249, 249, 0.215);
+}
+.services ul {
+    display: flex;
+    justify-content: space-around;
+}
+.services ul li {
+    background-color:rgb(59, 49, 132); 
+    padding: 2rem;
+    border-radius: 50rem;
+}
+.key-benefits {
+    display: flex;
+    justify-content: space-around;
+}
+.key-benefits li {
+    padding: 2rem;
+    background-color:rgb(59, 49, 132);
+    padding: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    border-radius: 2rem;
+}
+.contact {
+    background-color: rgb(59, 49, 132);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.about-me {
+    background-color: rgb(59, 49, 132);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.testimonials {
+    background-color: rgb(59, 49, 132);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.locations {
+    background-color: rgb(59, 49, 132);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.call-to-action {
+    background-color: rgb(59, 49, 132);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+footer { 
+    background-color: rgb(59, 49, 132);
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 1rem;
+}
